@@ -101,6 +101,12 @@ const ListMenu = styled.div`
     a{
     padding :20px;
     }
+        @media (max-width: 768px) {
+        flex-direction:column;
+        li{
+        padding:10px;
+        }
+        }
 `;
 
 const CustomClose = styled(CloseIcon)`
