@@ -1,8 +1,9 @@
-#⚡ Tesla 2025 Landing Page | React Clone
+⚡ Tesla 2025 Landing Page | React Clone
 
 A high-performance Tesla 2025 website clone, built using React, Styled Components, and React Icons. This project replicates Tesla's futuristic design, animations, and responsiveness with modern web technologies.
 
 🛠 Tech Stack
+
 React.js – Component-based architecture
 
 Styled Components – CSS-in-JS styling
